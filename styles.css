@@ -1,11 +1,11 @@
 @font-face {
     font-family: titleFont;
-    src: url(/makestencil-font/Makestencilalp-GKMO.ttf);
+    src: url(makestencil-font/Makestencilalp-GKMO.ttf);
 }
 
 @font-face {
     font-family: smallFont;
-    src: url(/rosmatika-font/RosmatikaRegular-BWA45.ttf);
+    src: url(rosmatika-font/RosmatikaRegular-BWA45.ttf);
 }
 
 
